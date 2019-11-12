@@ -1,17 +1,17 @@
 {
   "name": "hangman2",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple console take on hangman",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js"
+    "node .":"node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kNormPrime/hangman2.git"
   },
-  "author": "",
+  "author": "Kevin Normile",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kNormPrime/hangman2/issues"
